@@ -2,5 +2,5 @@ pandas
 numpy
 dash
 dash_bootstrap_components
-pickle
+pickle = 2.0.0
 sklearn
