@@ -20,7 +20,7 @@ import numpy as np
 
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
-
+server = app.server
 
 
 def load_model():
