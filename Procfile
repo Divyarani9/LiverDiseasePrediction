@@ -1,1 +1,1 @@
-web: gunicorn LiverDiseasePrediction_UI1:app
+web: gunicorn LiverDiseasePrediction_UI1:server
