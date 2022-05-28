@@ -253,7 +253,7 @@ def main():
     global app
     app.title = project_name
     app.layout = create_app_ui()
-    app.run_server(debug=False)
+    app.run_server(debug=True)
     
     print("This would be executed only after the server is down/stopped")
     
