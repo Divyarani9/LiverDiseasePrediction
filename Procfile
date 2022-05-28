@@ -1,0 +1,1 @@
+web: gunicorn LiverDiseasePrediction_UI1:app

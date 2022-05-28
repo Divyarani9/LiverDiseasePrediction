@@ -1,0 +1,7 @@
+pandas
+numpy
+dash
+dash_bootstrap_components
+webbrowser
+pickle
+sklearn
