@@ -2,5 +2,4 @@ pandas
 numpy
 dash
 dash_bootstrap_components
-pickle == 0.7.5
 sklearn
