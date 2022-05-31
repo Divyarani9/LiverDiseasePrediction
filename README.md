@@ -8,6 +8,6 @@ Liver data set contains 416 liver patient records and 167 non liver patient reco
 
 # Technologies used:
 For this project, the model has been built in Jupyter Notebook IDE using Python language and then the front end has been developed in Spyder IDE using Dash web developemnt framework.
-- Exploratory data analysis is done and applied feature engineering
-- Applied supervised machine algorithms for classification and predict where patient is affected by liver diaease or not.
+- Exploratory data analysis is done and applied feature engineering, treated missing values,
+- Applied supervised machine algorithms for classification and predict whether patient is affected by liver diaease or not.
 - Used SMOTE technique for balancing the dataset
